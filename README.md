@@ -13,10 +13,9 @@ Features:
 - combine 2 images
 - combine 2 images of different implementations
 
-Example Usage:
-
-
-
-
 Licence:
 GPL v2 or later
+
+Similar Projects:
+
+- https://github.com/avalanche123/Imagine
